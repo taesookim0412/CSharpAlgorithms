@@ -1,14 +1,24 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using CSharpAlgorithms;
+using CSharpAlgorithms.Difficulties.Easy;
 
 namespace CSharpAlgorithms
 {
     class Program
     {
+        private readonly Easy _easy = new Easy();
+
+        public Easy Easy
+        {
+            get { return _easy; }
+        }
+
         static void Main(string[] args)
         {
-            twoSum twoSumObj = new twoSum();
-            int[] twoSumRes = twoSumObj.TwoSum(new int[] {2,7,11,15}, 9);
-            Array.ForEach(twoSumRes, Console.WriteLine);
+            Program program = new Program();
         }
     }
 }
