@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj": {}
+    "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj": {}
   },
   "projects": {
-    "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj": {
+    "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj",
+        "projectUniqueName": "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj",
         "projectName": "CSharpAlgorithms",
-        "projectPath": "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj",
+        "projectPath": "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms.csproj",
         "packagesPath": "C:\\Users\\terry\\.nuget\\packages\\",
-        "outputPath": "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\CSharpAlgorithms\\obj\\",
+        "outputPath": "B:\\repos\\CSharpAlgorithms\\CSharpAlgorithms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\terry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
